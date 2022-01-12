@@ -1,0 +1,24 @@
+{
+  "name": "lab_2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illegal-dimple/web_lab_2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/illegal-dimple/web_lab_2/issues"
+  },
+  "homepage": "https://github.com/illegal-dimple/web_lab_2#readme",
+  "description": ""
+}
